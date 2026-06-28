@@ -122,9 +122,8 @@ Run again
 ```
 
 This repeats weekly during development.
-
-Yesterday's green dashboard can become today's disaster.
-CTS becomes continuous health monitoring.
+>Yesterday's green dashboard can become today's disaster.
+>CTS becomes continuous health monitoring.
 ---
 
 ## 📊 Reports
