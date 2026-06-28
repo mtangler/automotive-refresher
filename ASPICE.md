@@ -1,4 +1,4 @@
-ASPICE = Automotive Software Process Improvement and Capability Determination
+ASPICE = Automotive Software Process Improvement and Capability Determination\
 Automotive version of process discipline + traceability + quality.
 
 1. Requirement\
@@ -9,35 +9,35 @@ Automotive version of process discipline + traceability + quality.
 2. Design\
 Signal comes from CAN\
 → VHAL\
-→ Android UI\
+→ Android UI
 
 ↓
 
 3. Development\
-Write code\
+Write code
 
 ↓
 
 4. Unit Test\
-Does code work?\
+Does code work?
 
 ↓
 
 5. Integration Test\
-Does Android receive signal?\
+Does Android receive signal?
 
 ↓
 
 6. Vehicle Test\
 Sit in car\
 Pull brake\
-See icon\
+See icon
 
 ↓
 
 7. Traceability\
 Store proof:\
-Requirement → Code → Tests → Result\
+Requirement → Code → Tests → Result
 
 ↓
 
