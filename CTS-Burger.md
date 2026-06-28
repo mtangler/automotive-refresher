@@ -60,6 +60,8 @@ Meaning:
 ```text
 car_build_version.img
 ```
+Everybody happy.
+Nobody knows pain yet.
 
 ### Step 2 — Start CTS
 
@@ -122,10 +124,11 @@ Run again
 This repeats weekly during development.
 
 Yesterday's green dashboard can become today's disaster.
-
+CTS becomes continuous health monitoring.
 ---
 
 ## 📊 Reports
+
 
 Outputs:
 
@@ -134,12 +137,13 @@ Outputs:
 - logs
 - metrics
 
+Raw output becomes chaos.
 Often visualized in:
 
 - Grafana
 - Jenkins
 - custom dashboards
-
+Because nobody wants to read 4000 failures.
 ---
 
 ## 🔎 Failure Investigation
